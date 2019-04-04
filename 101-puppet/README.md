@@ -153,7 +153,7 @@ This line is only separated by a single newline, so it's a separate line in the 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/QFcqvBk1gNA/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/QFcqvBk1gNA/0.jpg)](http://www.youtube.com/watch?v=QFcqvBk1gNA)
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
 
 License: CC-BY
